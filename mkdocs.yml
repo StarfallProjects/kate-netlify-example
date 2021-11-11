@@ -1,0 +1,7 @@
+site_name: Kate Netlify example
+site_description: How to use Netlify + GitHub
+site_author: Deborah Barnard
+nav:
+  - Introduction: index.md
+theme:
+  name: material
